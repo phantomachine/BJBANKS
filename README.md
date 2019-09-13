@@ -41,15 +41,15 @@ Many examples are rendered through Jupyter Notebooks (an interactive notebook, l
 
     * There is also a MATLAB or R-GUI like Integrated Developer Environment; type at prompt:
 
-        jupyter lab
+                jupyter lab
 
     * For batch processing scripts, you may wish to write code as .py files and interact with them using the Interactive Python shell:
 
-        ipython
+                ipython
 
     * Or just run 
 
-        python script.py
+                python script.py
 
 ## Optional: RISE (Jupyter Slideshow Extension)
 

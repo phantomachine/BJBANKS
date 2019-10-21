@@ -2,7 +2,7 @@
 
 Notebooks and source code related to the paper
 
-*Imperfectly Competitive Banks and Macroeconomic Policy Consequences* (A working title)
+*Money, Credit and Equilibrium Imperfectly Competitive Banking* (A working title)
 
 by Allen **Head**, Timothy **Kam** and Ieng-Man **Ng**
 

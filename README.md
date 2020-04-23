@@ -21,15 +21,15 @@ Many examples are rendered through Jupyter Notebooks (an interactive notebook, l
 
         https://www.anaconda.com/distribution/
 
-* Step 2 (optional): Install and activate Jupyter extensions package. This will allow LaTeX style equation auto-numbering and cross-referencing
+* Step 2: Install and activate Jupyter extensions package. This will allow LaTeX style equation auto-numbering and cross-referencing
 
         conda install -c conda-forge jupyter_contrib_nbextensions
 
-* Step 3 (optional): Install Javascript and CSS related to Step 2
+* Step 3: Install Javascript and CSS related to Step 2
 
         jupyter contrib nbextension install --user
 
-* Step 4 (optional): Install Notebook Extensions Configurator (GUI for customizing options like LaTeX referencing, equation numbering and cross-referencing, code folding, creating Exercise environments, and etc
+* Step 4: Install Notebook Extensions Configurator (GUI for customizing options like LaTeX referencing, equation numbering and cross-referencing, code folding, creating Exercise environments, and etc
 
         conda install -c conda-forge jupyter_nbextensions_configurator
 
@@ -51,7 +51,7 @@ Many examples are rendered through Jupyter Notebooks (an interactive notebook, l
 
                 python script.py
 
-## Optional: RISE (Jupyter Slideshow Extension)
+## RISE (Jupyter Slideshow Extension)
 
 * Step 6: If you want to also create presentation slides straight from your Notebook, you may need to also install RISE:
 

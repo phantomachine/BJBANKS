@@ -4,7 +4,7 @@ Notebooks and source code related to the paper
 
 *Money, Credit and Equilibrium Imperfectly Competitive Banking* (A working title)
 
-by Allen **Head**, Timothy **Kam** and Ieng-Man **Ng**
+by Allen **Head**, Timothy **Kam**, Ieng-Man **Ng** and Isaac **Pan**
 
 # For Users New to Python and Jupyter Notebooks
 

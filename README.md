@@ -2,7 +2,7 @@
 
 Notebooks and source code related to the paper
 
-*Money, Credit and Equilibrium Imperfectly Competitive Credit*\
+*Money, Credit and Equilibrium Imperfectly Competitive Credit*
 
 by Allen **Head**, Timothy **Kam**, Ieng-Man **Ng** and Isaac **Pan**
 

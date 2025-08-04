@@ -2,9 +2,11 @@
 
 Notebooks and source code related to the paper
 
-*Money, Credit and Equilibrium Imperfectly Competitive Banking* (A working title)
+*Money, Credit and Equilibrium Imperfectly Competitive Credit*\
 
 by Allen **Head**, Timothy **Kam**, Ieng-Man **Ng** and Isaac **Pan**
+
+DOI: https://doi.org/10.1016/j.jet.2025.106050
 
 # For Users New to Python and Jupyter Notebooks
 
